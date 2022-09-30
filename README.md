@@ -100,12 +100,6 @@ npm run chrome
 
 <br/>
 
-### 🤝 Thanks to:
-
-- [Open Source](https://en.wikipedia.org/wiki/Open_source)
-
-<br/>
-
 ### 📝 License
 
 This project is under [Creative Commons](https://creativecommons.org/licenses/by-nc/4.0/) and MIT licensed:
