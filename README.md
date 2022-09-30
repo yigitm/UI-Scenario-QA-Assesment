@@ -6,7 +6,9 @@
 
 This is a ui test assesment for selenium web driver according to given user scenario.
 
-<font color="red">Website address & company name is removed for public use.</font>
+```diff
+-Website address & company name is removed for public use.
+```
 
 ### User scenario & Requirements
 
