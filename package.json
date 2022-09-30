@@ -1,7 +1,16 @@
 {
+  "name": "qa-case",
+  "version": "1.0.0",
+  "description": "",
+  "main": "chrome.js",
+  "scripts": {
+    "chrome": "mocha --no-timeouts"
+  },
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "chromedriver": "^106.0.1",
+    "chromedriver": "^105.0.0",
     "mocha": "^10.0.0",
-    "selenium-webdriver": "^4.5.0"
+    "selenium-webdriver": "^4.4.0"
   }
 }
