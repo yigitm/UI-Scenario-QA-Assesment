@@ -1,5 +1,7 @@
 ## UI-Scenario-QA-Assesment
 
+<pre></pre>
+
 ![](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)![](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)
 
 This is a ui test assesment for selenium web driver according to given user scenario.
@@ -87,14 +89,20 @@ npm run chrome
 
 ```
 
-### 🤝 Thanks to:
-
-- [Open Source](https://en.wikipedia.org/wiki/Open_source)
+<br/>
 
 👤 **Yigit Mersin**
 
 - GitHub: [@github](https://github.com/ygtmrsn)
 - LinkedIn: [@linkedIn](linkedin.com/in/yigitmersin)
+
+<br/>
+
+### 🤝 Thanks to:
+
+- [Open Source](https://en.wikipedia.org/wiki/Open_source)
+
+<br/>
 
 ### 📝 License
 
